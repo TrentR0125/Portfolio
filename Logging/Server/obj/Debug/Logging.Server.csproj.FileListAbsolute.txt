@@ -1,0 +1,10 @@
+D:\Software Portfolio\Portfolio\Logging\Server\bin\Debug\fxmanifest.lua
+D:\Software Portfolio\Portfolio\Logging\Server\bin\Debug\Logging.Server.net.dll
+D:\Software Portfolio\Portfolio\Logging\Server\bin\Debug\CitizenFX.Core.Server.dll
+D:\Software Portfolio\Portfolio\Logging\Server\bin\Debug\Newtonsoft.Json.dll
+D:\Software Portfolio\Portfolio\Logging\Server\bin\Debug\CitizenFX.Core.Server.xml
+D:\Software Portfolio\Portfolio\Logging\Server\bin\Debug\Newtonsoft.Json.xml
+D:\Software Portfolio\Portfolio\Logging\Server\obj\Debug\Logging.Server.csproj.AssemblyReference.cache
+D:\Software Portfolio\Portfolio\Logging\Server\obj\Debug\Logging.Server.csproj.CoreCompileInputs.cache
+D:\Software Portfolio\Portfolio\Logging\Server\obj\Debug\Logging.Server.csproj.CopyComplete
+D:\Software Portfolio\Portfolio\Logging\Server\obj\Debug\Logging.Server.net.dll
