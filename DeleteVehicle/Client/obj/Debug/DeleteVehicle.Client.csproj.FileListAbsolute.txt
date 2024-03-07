@@ -1,0 +1,6 @@
+D:\Software Portfolio\Resources\deletevehicle\DeleteVehicle.Client.net.dll
+D:\Software Portfolio\Portfolio\DeleteVehicle\Client\obj\Debug\DeleteVehicle.Client.csproj.AssemblyReference.cache
+D:\Software Portfolio\Portfolio\DeleteVehicle\Client\obj\Debug\DeleteVehicle.Client.csproj.CoreCompileInputs.cache
+D:\Software Portfolio\Portfolio\DeleteVehicle\Client\obj\Debug\DeleteVehicle.Client.csproj.CopyComplete
+D:\Software Portfolio\Portfolio\DeleteVehicle\Client\obj\Debug\DeleteVehicle.Client.net.dll
+D:\Software Portfolio\Resources\deletevehicle\fxmanifest.lua
