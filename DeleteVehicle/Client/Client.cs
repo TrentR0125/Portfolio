@@ -15,21 +15,21 @@ namespace DeleteVehicle.Client
         public void OnDeleteVehicleCommand() => TriggerEvent("DeleteVehicle:DeleteClosestVehicle");
 
         [EventHandler("DeleteVehicle:DeleteClosestVehicle")]
-        public async void OnDeleteClosestVehicle()
+        public void OnDeleteClosestVehicle()
         {
             Ped playerPed = Game.PlayerPed;
             Vehicle closestVeh = ClosestVehicle(6f);
 
             if (closestVeh != null && closestVeh.Exists())
             {
-                if (closestVeh.Position.DistanceToSquared2D(playerPed.Position) < 6f)
+                if (closestVeh.Position.DistanceToSquared2D(playerPed.Position) < 6f || closestVeh.Driver == Game.PlayerPed)
                 {
                     closestVeh.Delete();
                     Screen.ShowNotification("~g~Success~w~: Vehicle has been deleted!");
                 }
                 else
                 {
-                    Screen.ShowNotification("~r~Error~w~: Could not find vehicle to deleted");
+                    Screen.ShowNotification("~r~Error~w~: Either the vehicle could not be found, or you are not the driver of the vehicle.");
                 }
             }
             else
